@@ -1,0 +1,11 @@
+#root {
+    background-color: lavenderblush;
+}
+
+.collection-item {
+    background-color:lavender;
+    color: blue;
+    text-decoration:solid;
+    font-size: large;
+    text-align: center;
+}
